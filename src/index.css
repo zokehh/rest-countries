@@ -1,0 +1,31 @@
+html, body {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: hsl(0, 0%, 97%);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.light {
+    color: hsl(200, 15%, 8%) !important;
+    background-color: hsl(0, 0%, 97%);
+}
+
+.dark {
+    color: white !important;
+    background-color: hsl(207, 26%, 17%);
+    min-height: 91.7vh;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: hsl(200, 15%, 8%);
+    border-radius: 5px;
+}
