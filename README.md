@@ -6,6 +6,6 @@
 <ul>
   <li>CSS Modules</li>
   <li>Managing App Wide States with help of React Context API</li>
-  <li>React Router</li>
+  <li>React Router v6</li>
   <li>Handling side effect with useEffect</li>
 </ul>
